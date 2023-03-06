@@ -1,0 +1,10 @@
+Modelo\JugadorO.class
+Modelo\Jugador.class
+Modelo\ReglasTriqui.class
+Interfaces\IReglasTriqui.class
+Interfaces\ITableroBuilder.class
+Modelo\TriquiBuilder.class
+Ejecutable\PatronDisenoEvento1.class
+Modelo\Tablero.class
+Modelo\Director.class
+Modelo\JugadorX.class
